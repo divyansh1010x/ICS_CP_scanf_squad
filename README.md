@@ -1,0 +1,1 @@
+# ICS_CP_scanf_squad
